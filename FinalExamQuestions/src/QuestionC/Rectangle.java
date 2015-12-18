@@ -14,5 +14,4 @@ public class Rectangle extends Shape {
 	public double ComputeArea() {
 		return this.getX() * this.getY();
 	}
-
 }

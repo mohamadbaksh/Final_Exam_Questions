@@ -5,6 +5,7 @@ abstract class Shape {
 	private int y;
 
 	Shape(int newx, int newy) {
+
 		moveTo(newx, newy);
 	}
 
